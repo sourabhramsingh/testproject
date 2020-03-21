@@ -1,1 +1,1 @@
-# testproject
+Exploring Github and its functionalities
